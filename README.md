@@ -17,6 +17,11 @@ npm install
 npm run dev
 ```
 
+prd
+```
+npm run build
+npm run preview
+```
 ## 구조 이해
 ```
 src
