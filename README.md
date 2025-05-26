@@ -32,3 +32,11 @@ tailwind.config.ts
   └─ Tailwind 설정 파일
 
 ```
+
+
+### 초기화 시
+```
+rm -rf .svelte-kit
+rm -rf node_modules package-lock.json
+npm install
+```
