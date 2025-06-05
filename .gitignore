@@ -1,4 +1,6 @@
 node_modules
+.venv
+data/
 
 # Output
 .output
@@ -17,11 +19,7 @@ Thumbs.db
 .env.*
 !.env.example
 !.env.test
-.svelte-kit/*
 
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-# Ai-Utils
-AI-Utils/*
